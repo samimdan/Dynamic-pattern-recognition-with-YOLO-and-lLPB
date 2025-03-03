@@ -1,9 +1,9 @@
 ﻿data,train,test,val,total
-aprutre,300,64,36,400
-Chatic_motion,226,44,21,291
-Dominant_multiple,435,75,44,554
+Aperture,300,64,36,400
+Chaotic Motion,226,44,21,291
+Dominant Multiple,435,75,44,554
 Explosion,401,42,21,464
-fire,367,80,36,483
-flag,126,22,9,157
-Rotary_motion,117,22,14,153
-total,1972,349,181,2502
+Fire,367,80,36,483
+Flag,126,22,9,157
+Rotary Motion,117,22,14,153
+Total,1972,349,181,2502
