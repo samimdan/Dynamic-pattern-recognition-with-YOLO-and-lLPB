@@ -1,0 +1,13 @@
+1. A dynamic pattern recognition apperoach bacsed on naural network for stack time-sreies.pdf
+2. A novel scheme based on local binary pattern for dynamic.pdf
+3. A recursive patterns matching model for the dynamic pattern recognition problem 1.pdf
+4. A recursive patterns matching model for the dynamic pattern recognition problem.pdf
+5. A recursive patterns matching model for the.pdf
+6. A user-knowledge dynamic pattern matching process.pdf
+7. Abavisani_Improving_the_Performance_of_Unimodal_Dynamic_Hand-Gesture_Recognition_With_Multimodal_CVPR_2019_paper.pdf
+8. Analytical Investigation of Pattern Formation in an M-CNN with.pdf
+9. Convolutional Neural Network on Three Orthogonal Planes for.pdf
+10. Dynamic evolving spiking neural networks for on-line spatio- and.pdf
+11. Dynamic facial exprement recognition based.pdf
+12. Dynamic Learning Style Prediction Method Based.pdf
+13. Dynamic pattern denoisin gmethod usingmulti-basin system with kernels.pdf
