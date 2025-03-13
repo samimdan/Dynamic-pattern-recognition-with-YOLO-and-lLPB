@@ -1,0 +1,9 @@
+Model,Precision,Recall,F1-Score
+Chaotic Motion,1,1,1
+Dominant Multiple,1,1,1
+Explosion,1,1,1
+Fire,1,1,1
+Flag,1,1,1
+Rotary Motion,1,1,1
+Aperture,1,1,1
+
